@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# dotenv environment variables
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Uploads folder (optional if you don't want to push uploaded files)
+uploads/
+
+# VSCode settings (optional)
+.vscode/
